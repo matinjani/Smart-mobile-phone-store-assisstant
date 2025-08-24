@@ -70,4 +70,4 @@ Functions and loops
 
 Basic inventory management logic
 
-User input handling
+User input handling 
